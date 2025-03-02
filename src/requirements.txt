@@ -29,7 +29,7 @@ prompt_toolkit
 rich
 bitarray
 ray==2.6.3
-vllm==0.1.4 # ! Ensure version <= 0.1.4, later versions have unsolved bugs.
+vllm==0.7.2 # ! Ensure version <= 0.1.4, later versions have unsolved bugs.
 cvxpy
 func-timeout
 timeout-decorator
